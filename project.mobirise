@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Professor Paulo Fernando",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -564,7 +564,7 @@
             "postsNumber": 5,
             "socialGoogle": false,
             "socialDisqus": true,
-            "shortName": "",
+            "shortName": "paulo1512",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgImageRadio": false,
